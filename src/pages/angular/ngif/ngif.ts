@@ -15,6 +15,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class NgifPage {
 
+  public logado:boolean = false;
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 

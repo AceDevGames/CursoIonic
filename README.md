@@ -9,3 +9,4 @@ Curso voltado para o aprendizado de desenvolvimento de aplicações utilizando I
 * Rode o comando `npm install` para instalar as dependências.
 * Rode o comando `ionic serve` para criar um servidor local para rodar a aplicação.
 # cursoionic
+# CursoIonic
